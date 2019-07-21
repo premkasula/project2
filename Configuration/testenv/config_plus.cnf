@@ -1,0 +1,17 @@
+# This File
+ 
+######
+{
+Name=Sravan
+email=sravan@gmail.com
+manager=Santhosh
+}
+
+######
+{ 
+Name=Santhosh
+email=santhu@gmail.com
+manager=Shankar
+}
+
+# end of the file
